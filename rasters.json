@@ -1,0 +1,1967 @@
+{
+	"lwi-region7": {
+		"rasters": [
+			{
+				"filename": "deliverables/Amite_Calibration_Initial/Hydraulics/RAS/AM_mastercopy/Terrain/Bathy/AmiteBathy.Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "31Jan2024"
+			},
+			{
+				"filename": "deliverables/Amite_Calibration_Initial/Hydraulics/RAS/AM_mastercopy/Terrain/Bathy/AmiteBathy.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "31Jan2024"
+			},
+			{
+				"filename": "deliverables/Amite_Calibration_Initial/Hydraulics/RAS/AM_mastercopy/Terrain/Bathy/Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "31Jan2024"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setup_Backcheck/HECRAS/Terrain/AmiteTerrain.AmiteBathy1X1.tif",
+				"filesize (GB)": 1.8442,
+				"last_modified": "26Oct2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setup_Backcheck/HECRAS/Terrain/AmiteTerrain.BST_bathy.tif",
+				"filesize (GB)": 0.0233,
+				"last_modified": "26Oct2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setup_Backcheck/HECRAS/Terrain/AmiteTerrain.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "26Oct2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteComite1D/Terrain/AmiteTerrain.AmiteBathy1X1.tif",
+				"filesize (GB)": 1.8442,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteComite1D/Terrain/AmiteTerrain.BST_bathy.tif",
+				"filesize (GB)": 0.0233,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteComite1D/Terrain/AmiteTerrain.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteEast/Terrain/Updates/Combined/AmiteTerrain_Bathy.AmiteBathy1X1.tif",
+				"filesize (GB)": 1.8446,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteEast/Terrain/Updates/Combined/AmiteTerrain_Bathy.BST_ADDED.BST_bathy.tif",
+				"filesize (GB)": 0.0233,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-AmiteEast/Terrain/Updates/Combined/AmiteTerrain_Bathy.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-ColyellCrk/Terrain/AmiteBathy 011123.Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-ColyellCrk/Terrain/AmiteBathy 011123.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-ColyellCrk/Terrain/Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-ColyellCrk/Terrain/RASBathy1X1.Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-GraysCrk/Terrain/AmiteBathy 011123.Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-GraysCrk/Terrain/AmiteBathy 011123.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-GraysCrk/Terrain/SS/Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-GraysCrk/Terrain/SS/RASBathy1X1.Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-LowerAmite/Terrain/Copy/AmiteBathy.Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-LowerAmite/Terrain/Copy/AmiteBathy.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-LowerAmite/Terrain/Copy/Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-MiddleCombined/Terrain/Bathy/AmiteBathy.Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-MiddleCombined/Terrain/Bathy/AmiteBathy.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-MiddleCombined/Terrain/Bathy/Bathy1x1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-WestCombined/Terrain/AmiteTerrain_20230613.AmiteBathy1X1.tif",
+				"filesize (GB)": 1.8446,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-WestCombined/Terrain/AmiteTerrain_20230613.BST_ADDED.BST_bathy.tif",
+				"filesize (GB)": 0.0233,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-WestCombined/Terrain/AmiteTerrain_20230613.Existing2018_reprj.Existing2018_reprj.tif",
+				"filesize (GB)": 21.8794,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-WestCombined/Terrain/SS/Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/Amite_RAS_Setupdelivery/RAS/AM-WestCombined/Terrain/SS/RASBathy1X1.Bathy1X1.tif",
+				"filesize (GB)": 1.841,
+				"last_modified": "11Jul2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.T10.tif",
+				"filesize (GB)": 0.0852,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.T40.tif",
+				"filesize (GB)": 0.0576,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.T50.tif",
+				"filesize (GB)": 0.0183,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.T60.tif",
+				"filesize (GB)": 0.0069,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.T70.tif",
+				"filesize (GB)": 0.0384,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouBatonRouge/Terrain/New_Terrain7282022/Final_terrain_mods.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouSara/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouSara/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_BayouSara/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_ThompsonCreek/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_ThompsonCreek/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_ThompsonCreek/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_TunicaSwamp/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_TunicaSwamp/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_Calibration_Initial/Hydraulics/RAS/ST_TunicaSwamp/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "25Sep2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.T10.tif",
+				"filesize (GB)": 0.0852,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.T40.tif",
+				"filesize (GB)": 0.0576,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.T50.tif",
+				"filesize (GB)": 0.0183,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.T60.tif",
+				"filesize (GB)": 0.0069,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.T70.tif",
+				"filesize (GB)": 0.0384,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BB/6_3/Terrain/New_Terrain7282022/Final_terrain_mods.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BS/6_3/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BS/6_3/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/BS/6_3/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TC/6_3/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TC/6_3/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TC/6_3/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TS/6_3/Terrain/ModifiedTerrain.0128Terrain.Bayou_ST_01282022.tif",
+				"filesize (GB)": 1.975,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TS/6_3/Terrain/ModifiedTerrain.alex.tif",
+				"filesize (GB)": 0.0298,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/BST_RAS_Backcheck/RAS/TS/6_3/Terrain/ModifiedTerrain.finalB.tif",
+				"filesize (GB)": 0.355,
+				"last_modified": "09Feb2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/LBT_1D/Terrain/Terrain2022.LBT_DRAFT_5x5_stp.tif",
+				"filesize (GB)": 1.891,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/LibertyBy_2D/Terrain/LBT_Terrain.LAS_20230324.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/LibertyBy_2D/Terrain/Terrain (1).Terrain.LBT_LAstpS_5x5ft_01102023.tif",
+				"filesize (GB)": 2.3242,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/LibertyBy_2D/Terrain/Terrain.Terrain.LBT_LAstpS_5x5ft_01102023.tif",
+				"filesize (GB)": 2.3242,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/LibertyBy_2D/Terrain/Updated/Updated_Terrain.02252022_5X5_ft.tif",
+				"filesize (GB)": 5.1707,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/Tchefuncte_2D/Terrain/011123_Prelim/Terrain.011223_Prelim_DEM.Terrain.LBT_LAstpS_5x5ft_01102023_ft.tif",
+				"filesize (GB)": 2.5351,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/Tchefuncte_2D/Terrain/Bathy/Bathy_040923.bathymetry_040923.tif",
+				"filesize (GB)": 1.3237,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT RAS Setupdelivery/RAS/Tchefuncte_2D/Terrain/Bathy/bathymetry_040923.tif",
+				"filesize (GB)": 1.3237,
+				"last_modified": "16May2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/LBT_Terrain.LAS_20230324.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/LBT_Terrain.LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/Terrain (1).Terrain.LBT_LAstpS_5x5ft_01102023.tif",
+				"filesize (GB)": 2.3242,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/Terrain (2).LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/Terrain (3).LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/Terrain.Terrain.LBT_LAstpS_5x5ft_01102023.tif",
+				"filesize (GB)": 2.3242,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/LibertyBy/Terrain/Updated/Updated_Terrain.02252022_5X5_ft.tif",
+				"filesize (GB)": 5.1707,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/TC_LBT_West/Terrain/Bathy/LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7662,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/TC_LBT_West/Terrain/Bathy/LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/Unsteady1D/Terrain/LBT_Terrain_20230517.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7654,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/Unsteady1D/Terrain/LBT_Terrain_20230517.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/Unsteady1D/Terrain/LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7662,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LBT_RAS_Backcheck/RAS/Unsteady1D/Terrain/LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "04Oct2023"
+			},
+			{
+				"filename": "deliverables/LowerPearlRASInitial/LP/Terrain/BLCr_PearlRi.BLCr_PearlRi.tif",
+				"filesize (GB)": 0.8237,
+				"last_modified": "05Jul2023"
+			},
+			{
+				"filename": "deliverables/LowerPearlRASInitial/LP/Terrain/Combined_BridgeXS_5_5ft.Resampled.tif",
+				"filesize (GB)": 6.2046,
+				"last_modified": "05Jul2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Blind_River_HUC10/DA.tif",
+				"filesize (GB)": 0.9407,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Blind_River_HUC10/elevation.tif",
+				"filesize (GB)": 0.2289,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Blind_River_HUC10/streams.tif",
+				"filesize (GB)": 0.0088,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Miss_Bayou_HUC10/DA.tif",
+				"filesize (GB)": 0.9407,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Miss_Bayou_HUC10/elevation.tif",
+				"filesize (GB)": 0.2288,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Miss_Bayou_HUC10/streams.tif",
+				"filesize (GB)": 0.0088,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/New_River_HUC10/DA.tif",
+				"filesize (GB)": 0.9407,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/New_River_HUC10/elevation.tif",
+				"filesize (GB)": 0.2288,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/New_River_HUC10/streams.tif",
+				"filesize (GB)": 0.0088,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Tangipahoa_HUC10/elevation.tif",
+				"filesize (GB)": 0.2289,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/gis/Tangipahoa_HUC10/streams.tif",
+				"filesize (GB)": 0.0088,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/DSS/terrain/Terrain_25ft.elevation.tif",
+				"filesize (GB)": 0.2289,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS LM_WEST/HECRAS/Terrain/Maurepas_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09012022Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09012022Terrain.09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/091522_Terrain.08072022.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/091522_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/0915_Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/0915_Terrain.09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/0915_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09182022Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09182022Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/091822Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/091822Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09192022Terrain.09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09192022Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09_15_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/09_15_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/ChannelMod/09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/ChannelMod/09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/ChannelMod/09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/ChannelMod/09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/ChannelMod/V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/RAW_terrain.tif",
+				"filesize (GB)": 0.2525,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/Raw_Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/MaurepasRASInitial/RAS/HECRAS_PASS_MANCHAC/Terrain/channelCheck0919.09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "06Feb2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMW.LMW.tif",
+				"filesize (GB)": 1.3329,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMW.LM_West_07242023.tif",
+				"filesize (GB)": 1.3534,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LMW.tif",
+				"filesize (GB)": 0.8156,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LM_West.LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/2023/LM_West.LM_WEST.tif",
+				"filesize (GB)": 0.4914,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LM_WEST.tif",
+				"filesize (GB)": 1.2435,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/LM_West_07242023.tif",
+				"filesize (GB)": 0.8071,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Maurepas_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_Initial/Hydraulics/LMW_West/HECRAS/Terrain/Raw_Terrain_2023.LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "01Nov2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/AUG2016/MOsaic_Aug2016.tif",
+				"filesize (GB)": 0.8886,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMW.LMW.tif",
+				"filesize (GB)": 1.3329,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMW.LM_West_07242023.tif",
+				"filesize (GB)": 1.3534,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LMW.tif",
+				"filesize (GB)": 0.8156,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LM_West.LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Maurepas_West_RAS/HECRAS/Terrain/2023/LM_West.LM_WEST.tif",
+				"filesize (GB)": 0.4914,
+				"last_modified": "12Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09012022Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09012022Terrain.09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/091522_Terrain.08072022.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/091522_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/0915_Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/0915_Terrain.09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/0915_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09182022Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09182022Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/091822Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/091822Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09_15_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/09_15_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/ChannelMod/09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/ChannelMod/09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/ChannelMod/09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/ChannelMod/09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/ChannelMod/V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/LM_PassManchac.22.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/LM_PassManchac.rrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/RAW_terrain.tif",
+				"filesize (GB)": 0.2525,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/Raw_Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_Calibration_V2/Pass_Manchac_RAS/Terrain/channelCheck0919.09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "16Apr2024"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/2023/LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LMP_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.09212022_Channel.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.HNTB_Channel.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.LakeMaurepas_5x5ft_08022022.LakeMaurepas_5x5ft_08022022.tif",
+				"filesize (GB)": 2.5105,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_High_1ft_0816_V2.tif",
+				"filesize (GB)": 0.2367,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.Terrain_Medium_1ft_0729.tif",
+				"filesize (GB)": 0.0018,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.LM_West_Terrain.mapper_int23.tif",
+				"filesize (GB)": 0.214,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.PS_Patch_Terrain.tif",
+				"filesize (GB)": 0.0025,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Maurepas_West.V6_Refined_PS_Channel.tif",
+				"filesize (GB)": 0.2386,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Maurepas_West_RAS/HECRAS/Terrain/Raw_Terrain_2023.LMP_West_2023.LM_West_2023.tif",
+				"filesize (GB)": 1.3282,
+				"last_modified": "04May2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09012022Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09012022Terrain.09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/091522_Terrain.08072022.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/091522_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/0915_Terrain.08052022.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/0915_Terrain.09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/0915_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09182022Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09182022Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/091822Terrain.09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/091822Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09_15_Terrain.NewLidar.Terrain_072022.tif",
+				"filesize (GB)": 0.2636,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/09_15_Terrain.V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/ChannelMod/09012022.tif",
+				"filesize (GB)": 0.0211,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/ChannelMod/09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/ChannelMod/09182022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/ChannelMod/09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/ChannelMod/V2_09152022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/LM_PassManchac.22.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/LM_PassManchac.rrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/RAW_terrain.tif",
+				"filesize (GB)": 0.2525,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/Raw_Terrain.RAW_terrain.tif",
+				"filesize (GB)": 0.3001,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/Maurepas_RAS_Backcheck/RAS/Pass_Manchac_RAS/Terrain/channelCheck0919.09192022.tif",
+				"filesize (GB)": 0.0215,
+				"last_modified": "28Apr2023"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Aug2016 2D/Velocity (Max).LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7648,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Aug2016 2D/Velocity (Max).LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 1.438,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Bathy/LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7662,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Bathy/LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9399,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Mar2016 2D/D _ V (Max).LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7638,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Mar2016 2D/D _ V (Max).LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 0.7865,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Mar2016 2D/Velocity (Max).LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7663,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Mar2016 2D/Velocity (Max).LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 1.3992,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Terrain/LBT_Terrain_20230518.LBTBathy1X1.tif",
+				"filesize (GB)": 0.7662,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/TC_Calibration_Review/Hydraulics/RAS/Calibration_Complete/Terrain/LBT_Terrain_20230518.LBT_LAstpS_5x5ft_03242023.tif",
+				"filesize (GB)": 2.9393,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.bridge_test11.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.channel1.tif",
+				"filesize (GB)": 0.6264,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.chapcr.tif",
+				"filesize (GB)": 0.0329,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Backcheck/Hydraulics/Terrain/bathy_draft10/bathy_draft10.tribs2.tif",
+				"filesize (GB)": 0.4776,
+				"last_modified": "07Mar2024"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.bridge_test11.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.channel1.tif",
+				"filesize (GB)": 0.6264,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.chapcr.tif",
+				"filesize (GB)": 0.0329,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_Calibration_Initial/Hydraulics/Terrain/bathy_draft10/bathy_draft10.tribs2.tif",
+				"filesize (GB)": 0.4776,
+				"last_modified": "17Nov2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.bridge_test11.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.channel1.tif",
+				"filesize (GB)": 0.6264,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.chapcr.tif",
+				"filesize (GB)": 0.0329,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/LT/Terrain/bathy_draft10/bathy_draft10.tribs2.tif",
+				"filesize (GB)": 0.4776,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.bridge_test11.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.channel1.tif",
+				"filesize (GB)": 0.6264,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.chapcr.tif",
+				"filesize (GB)": 0.0329,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MLT/Terrain/bathy_draft10/bathy_draft10.tribs2.tif",
+				"filesize (GB)": 0.4776,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.bridge_test11.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.channel1.tif",
+				"filesize (GB)": 0.6264,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.chapcr.tif",
+				"filesize (GB)": 0.0329,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_draft10/bathy_draft10.tribs2.tif",
+				"filesize (GB)": 0.4776,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T1_culverts4.tif",
+				"filesize (GB)": 0.4765,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.Tang9.tif",
+				"filesize (GB)": 0.6176,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/Backcheck_2/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.bridge_test10.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "05Sep2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T1_culverts1.tif",
+				"filesize (GB)": 0.2028,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.test3.tif",
+				"filesize (GB)": 0.2298,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.bridge_test8.tif",
+				"filesize (GB)": 0.396,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/LT/Terrain/bathy_terrain_daft2/bridge_test8.tif",
+				"filesize (GB)": 0.396,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T1_culverts4.tif",
+				"filesize (GB)": 0.4765,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.Tang9.tif",
+				"filesize (GB)": 0.6176,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.bridge_test10.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.T1culverts1_copy.tif",
+				"filesize (GB)": 0.4767,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.TangCopy3.tif",
+				"filesize (GB)": 0.6292,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Backcheck/To_Reviewer/RAS/MUT/TERRAIN/bathy_draft7/bathy_draft7.bridge_copy1.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "11Aug2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T1_culverts1.tif",
+				"filesize (GB)": 0.2028,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.Culverts_combined1.test3.tif",
+				"filesize (GB)": 0.2298,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bathy_terrain_draft2.bridge_test8.tif",
+				"filesize (GB)": 0.396,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/LT/Terrain/bathy_terrain_daft2/bridge_test8.tif",
+				"filesize (GB)": 0.396,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T1_culverts4.tif",
+				"filesize (GB)": 0.4765,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.Tang9.tif",
+				"filesize (GB)": 0.6176,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MLT/Terrain/bathy_terrain_draft4/bathy_terrain_draft4.bridge_test10.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T1_culverts4.tif",
+				"filesize (GB)": 0.4765,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T2_culverts1.tif",
+				"filesize (GB)": 0.0372,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.T3_culverts1.tif",
+				"filesize (GB)": 0.0024,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.Tang9.tif",
+				"filesize (GB)": 0.6176,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.Terrain.Tangipahoa_05092022_LASTP_5x5_Prelim.tif",
+				"filesize (GB)": 2.6377,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tangipahoa_RAS_Initial/RAS/MUT/TERRAIN/bathy_terrain_draft4/bathy_terrain_draft4.bridge_test10.tif",
+				"filesize (GB)": 0.3961,
+				"last_modified": "06Jun2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_Calibration_Initial/Hydraulics/TI_Tickfaw/TerrainBathy/Tickfaw_bathy.BathyMerged_20231004_5ft.tif",
+				"filesize (GB)": 2.6191,
+				"last_modified": "11Jan2024"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_LizardCrk/Terrain/New folder/Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 9.3353,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_LizardCrk/Terrain/Tickfaw_Existing2021_Draft.Tickfaw_5x5_05032022.tif",
+				"filesize (GB)": 1.9534,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_LizardCrk/Terrain/Tickfaw_LASTP_01242023_Clip.tick_2023clip.tif",
+				"filesize (GB)": 0.4538,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_MiddleTickfaw/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_Natalbany/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_Tickfaw1D/Terrain/Terrain.DEM_clip.tif",
+				"filesize (GB)": 0.818,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_Setupdelivery/RAS/TI_TickfawCrk/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "14Jul2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/MiddleTickfaw/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Archive_RAS_6.2/Reduced_1min/Cumulative Iterations.Tickfaw_Existing2021_Draft.Tickfaw_5x5_05032022.tif",
+				"filesize (GB)": 0.0005,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Archive_RAS_6.2/Terrain/Tickfaw_Existing2021_Draft.Tickfaw_5x5_05032022.tif",
+				"filesize (GB)": 1.9534,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Reduced_1min/Cumulative Iterations.Tickfaw_Existing2021_Draft.Tickfaw_5x5_05032022.tif",
+				"filesize (GB)": 0.0005,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Terrain/New folder/Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 9.3353,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Terrain/Tickfaw_Existing2021_Draft.Tickfaw_5x5_05032022.tif",
+				"filesize (GB)": 1.9534,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TI_LizardCrk/Terrain/Tickfaw_LASTP_01242023_Clip.tick_2023clip.tif",
+				"filesize (GB)": 0.4538,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/Tickfaw1D_Unsteady/Terrain/Terrain.DEM_clip.tif",
+				"filesize (GB)": 0.818,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/TickfawCrk/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/Tickfaw_Natalbany/Natalbany_5x5_05182022.Natalbany_5x5_05182022.tif",
+				"filesize (GB)": 0.6415,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "deliverables/Tickfaw_RAS_backcheck/HECRAS/Tickfaw_Natalbany/Terrain/Tickfaw_ExisitingConditions2021.Tickfaw_LASTP_01242023.tif",
+				"filesize (GB)": 5.1558,
+				"last_modified": "20Oct2023"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.Task6_Survey.tif",
+				"filesize (GB)": 0.0108,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block1.tif",
+				"filesize (GB)": 4.0298,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block2.tif",
+				"filesize (GB)": 2.9691,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block3.tif",
+				"filesize (GB)": 2.1826,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block4.tif",
+				"filesize (GB)": 3.3769,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block5.tif",
+				"filesize (GB)": 3.7604,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.block6.tif",
+				"filesize (GB)": 3.7832,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.colyell_patch.tif",
+				"filesize (GB)": 0.0007,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.cpra_mask.tif",
+				"filesize (GB)": 0.6982,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.culvert_Z.tif",
+				"filesize (GB)": 0.0,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.usgs_10ft.tif",
+				"filesize (GB)": 0.0032,
+				"last_modified": "11Apr2024"
+			},
+			{
+				"filename": "model/other_existing_models_and_modeling_reports/AMITE_V1/HEC-RAS/AmiteRiverBasin_V1/Terrain/ExistingTerrain_2018.usgs_20ft.tif",
+				"filesize (GB)": 0.0242,
+				"last_modified": "11Apr2024"
+			}
+		],
+		"raster_cnt": 392
+	}
+}
